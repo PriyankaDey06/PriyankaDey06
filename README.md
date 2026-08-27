@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Priyanka Dey</h1>
+<h1>Hi 👋, <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=2800&pause=900&color=ffffff&center=true&vCenter=true&width=560&name =%26+I'm Priyanka Dey" alt="Typing SVG" </h1>
 
 <h3>BCA Student · Frontend Learner · Building calm, purposeful interfaces</h3>
 
@@ -72,7 +72,12 @@
 - 🎨 UI design with Figma
 
 ---
-<h2 align="left">📊 GitHub Stats</h2> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=PriyankaDey06&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=C4A3FF&text_color=E9D9FF&bg_color=0000" alt="stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaDey06&theme=tokyonight&hide_border=true&background=00000000&ring=A855F7&fire=C4A3FF&currStreakLabel=E9D9FF" alt="streak" height="165"/> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaDey06&layout=compact&theme=tokyonight&hide_border=true&background_color=#00000000&title_color=A855F7&text_color=E9D9FF" alt="top langs" height="165"/> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyankaDey06&style=for-the-badge&color=#8b5cf6" alt="profile views" /> </p>
+<h2 align="left">📊 GitHub Stats</h2> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=PriyankaDey06&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=C4A3FF&text_color=E9D9FF&bg_color=0000" alt="stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaDey06&theme=tokyonight&hide_border=true&background=00000000&ring=A855F7&fire=C4A3FF&currStreakLabel=E9D9FF" alt="streak" height="165"/> </p> <p align="left"> <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaDey06&layout=compact&theme=tokyonight&hide_border=true&background_color=00000000&title_color=A855F7&text_color=E9D9FF" alt="Top Languages" height="165"/>
+</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=PriyankaDey06&style=for-the-badge&color=8b5cf6" alt="Profile Views"/>
+</p>
 ---
 
 ## 💫 Let's Connect
