@@ -36,19 +36,19 @@
 
 ### 🎨 Frontend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 </p>
 
 ### 💻 Programming Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,python&theme=dark" />
 </p>
 
 ### 🛠️ Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" />
 </p>
 
