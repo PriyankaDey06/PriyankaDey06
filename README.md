@@ -28,15 +28,11 @@
 ## 🌱 About Me
 
 🎓 3rd Semester BCA student at Techno College Hooghly (2025–2029)
-
 💻 Currently learning web development and building small projects to practice every concept.
-
 🎨 I like clean structure, soft colour palettes, and UI that feels obvious to use.
-
 📍 West Bengal, India
-
-⚡ **Fun fact:** I fell in love with the web the day I changed a background colour and watched the whole page transform.
 ---
+
 ## 🧠 Currently Learning
 
 ### 🎨 Frontend
