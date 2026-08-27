@@ -84,6 +84,9 @@
   <a href="https://github.com/PriyankaDey06">
     <img src="https://img.shields.io/badge/GitHub-PriyankaDey06-181717?style=for-the-badge&logo=github">
   </a>
+  <a href="https://www.instagram.com/thelazy.tulip">
+    <img src="https://img.shields.io/badge/Instagram-thelazy.tulip-181717?style=for-the-badge&logo=Instagram">
+  </a>
 </p>
 <p align="center">
   <i>Learning. Building. Growing. 🌱</i>
