@@ -1,6 +1,5 @@
 <div align="center">
-<img src="banner.svg" alt="Banner">
-<rect width="100%" height="100%" fill="#FFE2E2"/>
+
 <h1>Hi 👋, I'm Priyanka Dey</h1>
 
 <h3>BCA Student · Frontend Learner · Building calm, purposeful interfaces</h3>
@@ -27,10 +26,13 @@
 ---
 ## 🌱 About Me
 
-🎓 3rd Semester BCA student at Techno College Hooghly (2025–2029)
-💻 Currently learning web development and building small projects to practice every concept.
-🎨 I like clean structure, soft colour palettes, and UI that feels obvious to use.
-📍 West Bengal, India
+<p>🎓 3rd Semester BCA student at Techno College Hooghly (2025–2029)</p>
+<br>
+<p>💻 Currently learning web development and building small projects to practice every concept.</p>
+<br>
+<p>🎨 I like clean structure, soft colour palettes, and UI that feels obvious to use.</p>
+<br>
+<p>📍 West Bengal, India</p>
 ---
 
 ## 🧠 Currently Learning
@@ -55,9 +57,12 @@
 
 ---
 🎓 Education
-2025 – 2029   Bachelor of Computer Application (BCA) — Techno College Hooghly   [3rd Semester, in progress]
-2025          Higher Secondary (WBCHSE) — Serampore Girls' High School          [75%]
-2023          Secondary / Madhyamik (WBCHSE) — Serampore Girls' High School     [61%]
+
+<p>2025 – 2029   Bachelor of Computer Application (BCA) — Techno College Hooghly   [3rd Semester, in progress]</p>
+<br>
+<p>2025          Higher Secondary (WBCHSE) — Serampore Girls' High School          [75%]</p>
+<br>
+<p>2023          Secondary / Madhyamik (WBCHSE) — Serampore Girls' High School     [61%]</p>
 ---
 
 ## 📌 What I'm Working On
@@ -70,10 +75,7 @@
 - 🎨 UI design with Figma
 
 ---
-
-## 📊 GitHub Stats
-
-<h3 align="left">📊 GitHub Stats</h3> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=C4A3FF&text_color=E9D9FF&bg_color=0000" alt="stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaDey06&theme=tokyonight&hide_border=true&background=00000000&ring=A855F7&fire=C4A3FF&currStreakLabel=E9D9FF" alt="streak" height="165"/> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaDey06&layout=compact&theme=tokyonight&hide_border=true&background_color=#00000000&title_color=A855F7&text_color=E9D9FF" alt="top langs" height="165"/> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyankaDey06&style=for-the-badge&color=#8b5cf6" alt="profile views" /> </p>
+<h2 align="left">📊 GitHub Stats</h2> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=PriyankaDey06&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=C4A3FF&text_color=E9D9FF&bg_color=0000" alt="stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaDey06&theme=tokyonight&hide_border=true&background=00000000&ring=A855F7&fire=C4A3FF&currStreakLabel=E9D9FF" alt="streak" height="165"/> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaDey06&layout=compact&theme=tokyonight&hide_border=true&background_color=#00000000&title_color=A855F7&text_color=E9D9FF" alt="top langs" height="165"/> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyankaDey06&style=for-the-badge&color=#8b5cf6" alt="profile views" /> </p>
 ---
 
 ## 💫 Let's Connect
