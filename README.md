@@ -23,7 +23,7 @@
 
 </div>
 
-
+<hr>
 ## 🌱 About Me
 
 <p>🎓 3rd Semester BCA student at Techno College Hooghly (2025–2029)</p>
@@ -31,7 +31,7 @@
 <p>🎨 I like clean structure, soft colour palettes, and UI that feels obvious to use.</p>
 <p>📍 West Bengal, India</p>
 
-
+<hr>
 ## 🧠 Currently Learning
 
 ### 🎨 Frontend
@@ -52,16 +52,16 @@
   <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" />
 </p>
 
-
-##🎓 Education
+<hr>
+<h2>🎓 Education</h2>
 
 <p>2025 – 2029   Bachelor of Computer Application (BCA) — Techno College Hooghly   [3rd Semester, in progress]</p>
 
 <p>2025          Higher Secondary (WBCHSE) — Serampore Girls' High School          [75%]</p>
 
 <p>2023          Secondary / Madhyamik (WBCHSE) — Serampore Girls' High School     [61%]</p>
----
 
+<hr>
 ## 📌 What I'm Working On
 
 - 🌐 HTML & CSS projects
@@ -71,15 +71,13 @@
 - 🐍 Python programming
 - 🎨 UI design with Figma
 
----
+<hr>
 <h2 align="left">📊 GitHub Stats</h2> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=PriyankaDey06&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=C4A3FF&text_color=E9D9FF&bg_color=0000" alt="stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaDey06&theme=tokyonight&hide_border=true&background=00000000&ring=A855F7&fire=C4A3FF&currStreakLabel=E9D9FF" alt="streak" height="165"/> </p> <p align="left"> <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaDey06&layout=compact&theme=tokyonight&hide_border=true&background_color=00000000&title_color=A855F7&text_color=E9D9FF" alt="Top Languages" height="165"/>
 </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=PriyankaDey06&style=for-the-badge&color=8b5cf6" alt="Profile Views"/>
 </p>
----
-
 ## 💫 Let's Connect
 
 <p align="center">
