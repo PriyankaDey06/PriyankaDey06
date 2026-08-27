@@ -53,7 +53,7 @@
 </p>
 
 
-🎓 Education
+##🎓 Education
 
 <p>2025 – 2029   Bachelor of Computer Application (BCA) — Techno College Hooghly   [3rd Semester, in progress]</p>
 
