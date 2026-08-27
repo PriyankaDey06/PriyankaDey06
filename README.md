@@ -81,16 +81,20 @@
 <h2>💫 Let's Connect</h2>
 
 <p align="center">
+
   <a href="https://github.com/PriyankaDey06">
-    <img src="https://img.shields.io/badge/GitHub-#181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
+
   <a href="https://www.instagram.com/thelazy.tulip">
-    <img src="https://img.shields.io/badge/Instagram-#e4405f?style=for-the-badge&logo=Instagram">
+    <img src="https://img.shields.io/badge/Instagram-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+
   <a href="https://www.facebook.com/priyanka_dey">
-    <img src="https://img.shields.io/badge/Facebook-#1877f2?style=for-the-badge&logo=Facebook">
+    <img src="https://img.shields.io/badge/Facebook-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 </p>
+
 <p align="center">
   <i>Learning. Building. Growing. 🌱</i>
 </p>
