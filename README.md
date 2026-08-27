@@ -1,5 +1,6 @@
-<div align="center" style="background-color:#FFE2E2; padding:30px; border-radius:15px;">
-
+<div align="center">
+<img src="banner.svg" alt="Banner">
+<rect width="100%" height="100%" fill="#FFE2E2"/>
 <h1>Hi 👋, I'm Priyanka Dey</h1>
 
 <h3>BCA Student · Frontend Learner · Building calm, purposeful interfaces</h3>
@@ -24,13 +25,17 @@
 </div>
 
 ---
-🌱 About Me
-🎓 3rd Semester BCA student at Techno College Hooghly (2025 – 2029)
-💻 Currently learning web development, building small projects to practice every concept
-🎨 I like clean structure, soft colour palettes, and UI that feels obvious to use
-📍 West Bengal, India
-⚡ Fun fact: I fell in love with the web the day I changed a background colour and watched the whole page transform
+## 🌱 About Me
 
+🎓 3rd Semester BCA student at Techno College Hooghly (2025–2029)
+
+💻 Currently learning web development and building small projects to practice every concept.
+
+🎨 I like clean structure, soft colour palettes, and UI that feels obvious to use.
+
+📍 West Bengal, India
+
+⚡ **Fun fact:** I fell in love with the web the day I changed a background colour and watched the whole page transform.
 ---
 ## 🧠 Currently Learning
 
