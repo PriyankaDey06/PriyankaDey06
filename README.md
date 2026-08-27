@@ -82,10 +82,13 @@
 
 <p align="center">
   <a href="https://github.com/PriyankaDey06">
-    <img src="https://img.shields.io/badge/GitHub-PriyankaDey06-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-#181717?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.instagram.com/thelazy.tulip">
-    <img src="https://img.shields.io/badge/Instagram-thelazy.tulip-181717?style=for-the-badge&logo=Instagram">
+    <img src="https://img.shields.io/badge/Instagram-#e4405f?style=for-the-badge&logo=Instagram">
+  </a>
+  <a href="https://www.facebook.com/priyanka_dey">
+    <img src="https://img.shields.io/badge/Facebook-#1877f2?style=for-the-badge&logo=Facebook">
   </a>
 </p>
 <p align="center">
