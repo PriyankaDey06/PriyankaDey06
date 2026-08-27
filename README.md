@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=2800&pause=900&color=ffffff&center=true&vCenter=true&width=560&name =%26+I'm Priyanka Dey" alt="Typing SVG" </h1>
+<h1>Hi 👋, I'm Priyanka Dey</h1>
 
 <h3>BCA Student · Frontend Learner · Building calm, purposeful interfaces</h3>
 
