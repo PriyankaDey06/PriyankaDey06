@@ -24,7 +24,7 @@
 </div>
 
 <hr>
-## 🌱 About Me
+<h2>🌱 About Me</h2>
 
 <p>🎓 3rd Semester BCA student at Techno College Hooghly (2025–2029)</p>
 <p>💻 Currently learning web development and building small projects to practice every concept.</p>
@@ -32,7 +32,7 @@
 <p>📍 West Bengal, India</p>
 
 <hr>
-## 🧠 Currently Learning
+<h2>🧠 Currently Learning</h2>
 
 ### 🎨 Frontend
 
@@ -62,7 +62,7 @@
 <p>2023          Secondary / Madhyamik (WBCHSE) — Serampore Girls' High School     [61%]</p>
 
 <hr>
-## 📌 What I'm Working On
+<h2>📌 What I'm Working On</h2>
 
 - 🌐 HTML & CSS projects
 - ⚡ JavaScript fundamentals
@@ -78,7 +78,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=PriyankaDey06&style=for-the-badge&color=8b5cf6" alt="Profile Views"/>
 </p>
-## 💫 Let's Connect
+<h2>💫 Let's Connect</h2>
 
 <p align="center">
   <a href="https://github.com/PriyankaDey06">
