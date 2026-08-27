@@ -23,17 +23,14 @@
 
 </div>
 
----
+
 ## 🌱 About Me
 
 <p>🎓 3rd Semester BCA student at Techno College Hooghly (2025–2029)</p>
-<br>
 <p>💻 Currently learning web development and building small projects to practice every concept.</p>
-<br>
 <p>🎨 I like clean structure, soft colour palettes, and UI that feels obvious to use.</p>
-<br>
 <p>📍 West Bengal, India</p>
----
+
 
 ## 🧠 Currently Learning
 
@@ -55,13 +52,13 @@
   <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" />
 </p>
 
----
+
 🎓 Education
 
 <p>2025 – 2029   Bachelor of Computer Application (BCA) — Techno College Hooghly   [3rd Semester, in progress]</p>
-<br>
+
 <p>2025          Higher Secondary (WBCHSE) — Serampore Girls' High School          [75%]</p>
-<br>
+
 <p>2023          Secondary / Madhyamik (WBCHSE) — Serampore Girls' High School     [61%]</p>
 ---
 
