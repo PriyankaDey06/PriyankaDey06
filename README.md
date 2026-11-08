@@ -82,6 +82,10 @@
 
 <p align="center">
 
+  <a href="https://www.linkedin.com/in/priyanka-dey-80aa9843b/">
+    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
   <a href="https://github.com/PriyankaDey06">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
@@ -93,9 +97,6 @@
   <a href="https://www.facebook.com/priyanka_dey">
     <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
-
-  <a href="https://www.linkedin.com/in/priyanka-dey-80aa9843b/">
-    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 
 <p align="center">
