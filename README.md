@@ -93,6 +93,9 @@
   <a href="https://www.facebook.com/priyanka_dey">
     <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
+
+  <a href="https://www.linkedin.com/in/priyanka-dey-80aa9843b/">
+    <img src="https://img.shields.io/badge/linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 
 <p align="center">
