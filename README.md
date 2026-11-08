@@ -95,7 +95,8 @@
   </a>
 
   <a href="https://www.linkedin.com/in/priyanka-dey-80aa9843b/">
-    <img src="https://img.shields.io/badge/linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/linkedin-.linkedin { background: #0077B5; }
+.linkedin:hover { background: #0A66C2; }?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 
 <p align="center">
